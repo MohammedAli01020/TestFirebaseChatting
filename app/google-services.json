@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "794757807290",
+    "firebase_url": "https://testfirebasechatting-c8dd6.firebaseio.com",
+    "project_id": "testfirebasechatting-c8dd6",
+    "storage_bucket": "testfirebasechatting-c8dd6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:794757807290:android:0b2bdc93888d74fa",
+        "android_client_info": {
+          "package_name": "com.example.mohamed.testfirebasechatting"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "794757807290-6gu5m4gp6jpivfqv17pevnb616unp5gg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mohamed.testfirebasechatting",
+            "certificate_hash": "5ae70a936917c2e3e84ead6cb13254c720412410"
+          }
+        },
+        {
+          "client_id": "794757807290-6ip3gsej6qjvlhi62stijrs9mtbmb6hq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNF50ZR1YcY5vb57m5LzCSSJg07IOTOOA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "794757807290-6ip3gsej6qjvlhi62stijrs9mtbmb6hq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
